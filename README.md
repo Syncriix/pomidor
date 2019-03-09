@@ -11,7 +11,8 @@ Clone form https://github.com/TatriX/pomidor, with the endgoal of implementing v
 - [ ] Get increasingly agressive after prolonged breaks (every minute break gets more annoying)
 - [ ] Implement customizable pomodoros untill big break
 - [ ] Improve code to call notifications directly after work time is over
-
+- [ ] Fix the scrolling issue, where the total timers are centered every second
+- [ ] Fix the indent between "Work" and the total timer to align with the rest 
 # Pomidor [![MELPA](https://melpa.org/packages/pomidor-badge.svg)](https://melpa.org/#/pomidor)
 
 Pomidor is a simple and cool [pomodoro technique](http://www.pomodorotechnique.com/) timer.
