@@ -6,7 +6,7 @@ Clone form https://github.com/TatriX/pomidor, with the endgoal of implementing v
 - [ ] Resuming current clock after pause
 - [ ] Report in "org-clock-report"
 - [ ] Pomodoro planning tool as seen on https://www.freelancingdigest.com/articles/pomodoro-emacs-with-orgmode/
-- [ ] TBD
+- [ ] Play Tick Tok sound while overworking
 
 # Pomidor [![MELPA](https://melpa.org/packages/pomidor-badge.svg)](https://melpa.org/#/pomidor)
 
