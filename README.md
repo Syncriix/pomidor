@@ -1,3 +1,13 @@
+Clone form https://github.com/TatriX/pomidor, with the endgoal of implementing various enhancements like:
+
+- [ ] Editable pomodoros
+- [ ] Customizable timeframes
+- [ ] Auto stoping current clock on pause
+- [ ] Resuming current clock after pause
+- [ ] Report in "org-clock-report"
+- [ ] Pomodoro planning tool as seen on https://www.freelancingdigest.com/articles/pomodoro-emacs-with-orgmode/
+- [ ] TBD
+
 # Pomidor [![MELPA](https://melpa.org/packages/pomidor-badge.svg)](https://melpa.org/#/pomidor)
 
 Pomidor is a simple and cool [pomodoro technique](http://www.pomodorotechnique.com/) timer.
