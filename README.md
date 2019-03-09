@@ -7,6 +7,10 @@ Clone form https://github.com/TatriX/pomidor, with the endgoal of implementing v
 - [ ] Report in "org-clock-report"
 - [ ] Pomodoro planning tool as seen on https://www.freelancingdigest.com/articles/pomodoro-emacs-with-orgmode/
 - [ ] Play Tick Tok sound while overworking
+- [ ] Improve code to call notifications directly after break time is over
+- [ ] Get increasingly agressive after prolonged breaks (every minute break gets more annoying)
+- [ ] Implement customizable pomodoros untill big break
+- [ ] Improve code to call notifications directly after work time is over
 
 # Pomidor [![MELPA](https://melpa.org/packages/pomidor-badge.svg)](https://melpa.org/#/pomidor)
 
