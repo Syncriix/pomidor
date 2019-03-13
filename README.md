@@ -15,6 +15,7 @@ Clone form https://github.com/TatriX/pomidor, with the endgoal of implementing v
 - [ ] Fix the indent between "Work" and the total timer to align with the rest 
 - [ ] Fix the bug where you press "Space+y" twice in a row that the work timer stays at 00:00:00 triggers a break
 - [ ] Redesign the customisations
+- [ ] Integrate https://github.com/Syncriix/org-time-budgets
 
 # Pomidor [![MELPA](https://melpa.org/packages/pomidor-badge.svg)](https://melpa.org/#/pomidor)
 
